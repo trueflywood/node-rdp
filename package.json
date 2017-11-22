@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Serg K",
+    "email": "kanunik71@yandex.com",
+  },
+  "dependencies": {
+    "commander": "^2.6.0",
+    "lodash.defaults": "^3.0.0",
+    "q": "^1.2.0",
+    "sanitize-filename": "^1.1.5"
+  },
+  "description": "Microsoft Remote Desktop Protocol wrapper for NodeJS",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "rdp",
+    "microsoft",
+    "remote desktop",
+    "remote desktop protocol",
+    "mstsc",
+    "terminal server"
+  ],
+  "license": "Apache-2.0",
+  "main": "lib/rdp.js",
+  "maintainers": [
+    {
+      "name": "frapontillo",
+      "email": "francescopontillo@gmail.com"
+    }
+  ],
+  "name": "node-rdp",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanunik71/node-rdp.git"
+  },
+  "version": "1.0.0"
+}
