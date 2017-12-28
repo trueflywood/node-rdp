@@ -6,7 +6,6 @@
   "dependencies": {
     "commander": "^2.6.0",
     "lodash.defaults": "^3.0.0",
-    "q": "^1.2.0",
     "sanitize-filename": "^1.1.5"
   },
   "description": "Microsoft Remote Desktop Protocol wrapper for NodeJS",
@@ -31,5 +30,5 @@
     "type": "git",
     "url": "git+https://github.com/Kanunik71/node-rdp.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
