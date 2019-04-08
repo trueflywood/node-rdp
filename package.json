@@ -5,11 +5,11 @@
     "email": "kanunik71@yandex.com"
   },
   "scripts": {
-    "version:patch": "npx standard-version -r patch --skip.commit --skip.tagging",
+    "version:patch": "npx standard-version -r patch --skip.commit --skip.tag",
     "version:pre-patch": "npx standard-version -r patch -p --skip.commit --skip.tag",
-    "version:minor": "npx standard-version -r minor --skip.commit --skip.tagging",
+    "version:minor": "npx standard-version -r minor --skip.commit --skip.tag",
     "version:pre-minor": "npx standard-version -r minor -p --skip.commit --skip.tag",
-    "version:major": "npx standard-version -r major --skip.commit --skip.tagging",
+    "version:major": "npx standard-version -r major --skip.commit --skip.tag",
     "version:pre-major": "npx standard-version -r major -p --skip.commit --skip.tag"
   },
   "dependencies": {
