@@ -13,8 +13,11 @@
     "version:pre-major": "npx standard-version -r major -p --skip.commit --skip.tag"
   },
   "dependencies": {
+    "child_process": "^1.0.2",
     "commander": "^2.6.0",
+    "i": "^0.3.6",
     "lodash.defaults": "^3.0.0",
+    "npm": "^6.9.0",
     "sanitize-filename": "^1.1.5"
   },
   "description": "Microsoft Remote Desktop Protocol wrapper for NodeJS",
