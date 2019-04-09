@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/trueflywood/node-rdp/compare/v1.2.0...v1.2.1) (2019-04-09)
+
+
+### Features
+
+* **rdp-connect:** fix detouch ([e97f8bb](https://github.com/trueflywood/node-rdp/commit/e97f8bb))
+* **rdp-connect:** импорт child_process ([c75360a](https://github.com/trueflywood/node-rdp/commit/c75360a))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/trueflywood/node-rdp/compare/v1.1.1...v1.2.0) (2019-04-09)
 
